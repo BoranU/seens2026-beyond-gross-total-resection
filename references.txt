@@ -1,0 +1,161 @@
+The Future of Brain Tumor Surgery: Beyond Gross Total Resection
+Boran Urfalı, MD, PhD · SeENS 2026
+Academic contact: burfali@mku.edu.tr
+References checked 10 November 2026
+
+1. Dandy WE. Removal of right cerebral hemisphere for certain tumors with hemiplegia: preliminary report. JAMA. 1928;90(11):823–825.
+https://doi.org/10.1001/jama.1928.02690380007003
+
+2. Hochberg FH, Pruitt A. Assumptions in the radiotherapy of glioblastoma. Neurology. 1980;30(9):907–911.
+https://doi.org/10.1212/WNL.30.9.907
+
+3. Karschnia P, Young JS, Dono A, et al.. Prognostic validation of a new classification system for extent of resection in glioblastoma: A report of the RANO resect group. Neuro-Oncology. 2023;25(5):940–954.
+https://doi.org/10.1093/neuonc/noac193
+
+4. Sahm F, Capper D, Jeibmann A, et al.. Addressing diffuse glioma as a systemic brain disease with single-cell analysis. Archives of Neurology. 2012;69(4):523–526.
+https://doi.org/10.1001/archneurol.2011.2910
+
+5. Osswald M, Jung E, Sahm F, et al.. Brain tumour cells interconnect to a functional and resistant network. Nature. 2015;528(7580):93–98.
+https://doi.org/10.1038/nature16071
+
+6. Venkataramani V, Tanev DI, Strahle C, et al.. Glutamatergic synaptic input to glioma cells drives brain tumour progression. Nature. 2019;573(7775):532–538.
+https://doi.org/10.1038/s41586-019-1564-x
+
+7. Venkatesh HS, Morishita W, Geraghty AC, et al.. Electrical and synaptic integration of glioma into neural circuits. Nature. 2019;573(7775):539–545.
+https://doi.org/10.1038/s41586-019-1563-y
+
+8. Krishna S et al. Glioblastoma remodelling of human neural circuits decreases survival. Nature. 2023;617:599–607.
+https://doi.org/10.1038/s41586-023-06036-1
+
+9. Louis DN, Perry A, Wesseling P, et al.. The 2021 WHO Classification of Tumors of the Central Nervous System: a summary. Neuro-Oncology. 2021;23(8):1231–1251.
+https://doi.org/10.1093/neuonc/noab106
+
+10. Molinaro AM, Hervey-Jumper S, Morshed RA, et al.. Association of Maximal Extent of Resection of Contrast-Enhanced and Non–Contrast-Enhanced Tumor With Survival Within Molecular Subgroups of Patients With Newly Diagnosed Glioblastoma. JAMA Oncology. 2020;6(4):495–503.
+https://doi.org/10.1001/jamaoncol.2019.6143
+
+11. Mellinghoff IK, van den Bent MJ, Blumenthal DT, et al.. Vorasidenib in IDH1- or IDH2-Mutant Low-Grade Glioma. New England Journal of Medicine. 2023;389(7):589–601.
+https://doi.org/10.1056/NEJMoa2304194
+
+12. McGirt MJ, Mukherjee D, Chaichana KL, et al.. Association of surgically acquired motor and language deficits on overall survival after resection of glioblastoma multiforme. Neurosurgery. 2009;65(3):463–469; discussion 469–470.
+https://doi.org/10.1227/01.NEU.0000349763.42238.E9
+
+13. Duffau H. Stimulation mapping of white matter tracts to study brain functional connectivity. Nature Reviews Neurology. 2015;11(5):255–265.
+https://doi.org/10.1038/nrneurol.2015.51
+
+14. Ius T, Angelini E, Thiebaut de Schotten M, Mandonnet E, Duffau H. Evidence for potentials and limitations of brain plasticity using an atlas of functional resectability of WHO grade II gliomas: towards a "minimal common brain". NeuroImage. 2011;56(3):992–1000.
+https://doi.org/10.1016/j.neuroimage.2011.03.022
+
+15. De Witt Hamer PC, Gil Robles S, Zwinderman AH, Duffau H, Berger MS. Impact of intraoperative stimulation brain mapping on glioma surgery outcome: a meta-analysis. Journal of Clinical Oncology. 2012;30(20):2559–2565.
+https://doi.org/10.1200/JCO.2011.38.4818
+
+16. Li YM, Suki D, Hess K, Sawaya R. The influence of maximum safe resection of glioblastoma on survival in 1229 patients: Can we do better than gross-total resection?. Journal of Neurosurgery. 2016;124(4):977–988.
+https://doi.org/10.3171/2015.5.JNS142087
+
+17. Dadario NB, Brahimaj B, Yeung J, Sughrue ME. Reducing the Cognitive Footprint of Brain Tumor Surgery. Frontiers in Neurology. 2021;12:711646.
+https://doi.org/10.3389/fneur.2021.711646
+
+18. Stummer W, Pichlmeier U, Meinel T, et al.; ALA-Glioma Study Group. Fluorescence-guided surgery with 5-aminolevulinic acid for resection of malignant glioma: a randomised controlled multicentre phase III trial. The Lancet Oncology. 2006;7(5):392–401.
+https://doi.org/10.1016/S1470-2045(06)70665-9
+
+19. Jermyn M, Mok K, Mercier J, et al.. Intraoperative brain cancer detection with Raman spectroscopy in humans. Science Translational Medicine. 2015;7(274):274ra19.
+https://doi.org/10.1126/scitranslmed.aaa2384
+
+20. Hollon TC, Pandian B, Adapa AR, et al.. Near real-time intraoperative brain tumor diagnosis using stimulated Raman histology and deep neural networks. Nature Medicine. 2020;26:52–58.
+https://doi.org/10.1038/s41591-019-0715-9
+
+21. Hollon T, Jiang C, Chowdury A, et al.. Artificial-intelligence-based molecular classification of diffuse gliomas using rapid, label-free optical imaging. Nature Medicine. 2023;29:828–832.
+https://doi.org/10.1038/s41591-023-02252-4
+
+22. Kondepudi A, Pekmezci M, Hou X, et al.. Foundation models for fast, label-free detection of glioma infiltration. Nature. 2025;637:439–445.
+https://doi.org/10.1038/s41586-024-08169-3
+
+23. Balog J, Sasi-Szabó L, Kinross J, et al.. Intraoperative tissue identification using rapid evaporative ionization mass spectrometry. Science Translational Medicine. 2013;5(194):194ra93.
+https://doi.org/10.1126/scitranslmed.3005623
+
+24. Santagata S, Eberlin LS, Norton I, et al.. Intraoperative mass spectrometry mapping of an onco-metabolite to guide brain tumor surgery. Proceedings of the National Academy of Sciences of the USA. 2014;111(30):11121–11126.
+https://doi.org/10.1073/pnas.1404724111
+
+25. Pirro V, Alfaro CM, Jarmusch AK, et al.. Intraoperative assessment of tumor margins during glioma resection by desorption electrospray ionization-mass spectrometry. Proceedings of the National Academy of Sciences of the USA. 2017;114(26):6700–6705.
+https://doi.org/10.1073/pnas.1706459114
+
+26. Zhang J, Rector J, Lin JQ, et al.. Nondestructive tissue analysis for ex vivo and in vivo cancer diagnosis using a handheld mass spectrometry system. Science Translational Medicine. 2017;9(406):eaan3968.
+https://doi.org/10.1126/scitranslmed.aan3968
+
+27. Vermeulen C, Pagès-Gallego M, Kester L, et al.. Ultra-fast deep-learned CNS tumour classification during surgery. Nature. 2023;622(7984):842–849.
+https://doi.org/10.1038/s41586-023-06615-2
+
+28. Senft C, Bink A, Franz K, Vatter H, Gasser T, Seifert V. Intraoperative MRI guidance and extent of resection in glioma surgery: a randomised, controlled trial. The Lancet Oncology. 2011;12(11):997–1003.
+https://doi.org/10.1016/S1470-2045(11)70196-6
+
+29. Westphal M, Hilt DC, Bortey E, et al.. A phase 3 trial of local chemotherapy with biodegradable carmustine (BCNU) wafers (Gliadel wafers) in patients with primary malignant glioma. Neuro-Oncology. 2003;5(2):79–88.
+https://doi.org/10.1093/neuonc/5.2.79
+
+30. Kunwar S, Chang S, Westphal M, et al.; PRECISE Study Group. Phase III randomized trial of CED of IL13-PE38QQR vs Gliadel wafers for recurrent glioblastoma. Neuro-Oncology. 2010;12(8):871–881.
+https://doi.org/10.1093/neuonc/nop054
+
+31. Spinazzi EF, Argenziano MG, Upadhyayula PS, et al.. Chronic convection-enhanced delivery of topotecan for patients with recurrent glioblastoma: a first-in-patient, single-centre, single-arm, phase 1b trial. The Lancet Oncology. 2022;23(11):1409–1418.
+https://doi.org/10.1016/S1470-2045(22)00599-X
+
+32. Vermandel M, Dupont C, Lecomte F, et al.. Standardized intraoperative 5-ALA photodynamic therapy for newly diagnosed glioblastoma patients: a preliminary analysis of the INDYGO clinical trial. Journal of Neuro-Oncology. 2021;152(3):501–514.
+https://doi.org/10.1007/s11060-021-03718-6
+
+33. Muragaki Y, Akimoto J, Maruyama T, et al.. Phase II clinical study on intraoperative photodynamic therapy with talaporfin sodium and semiconductor laser in patients with malignant brain tumors. Journal of Neurosurgery. 2013;119(4):845–852.
+https://doi.org/10.3171/2013.7.JNS13415
+
+34. Keskin DB et al. Neoantigen vaccine generates intratumoral T cell responses in phase Ib glioblastoma trial. Nature. 2019;565:234–239.
+https://doi.org/10.1038/s41586-018-0792-9
+
+35. Hilf N et al. Actively personalized vaccination trial for newly diagnosed glioblastoma. Nature. 2019;565:240–245.
+https://doi.org/10.1038/s41586-018-0810-y
+
+36. Jacob F et al. A Patient-Derived Glioblastoma Organoid Model and Biobank Recapitulates Inter- and Intra-tumoral Heterogeneity. Cell. 2020;180(1):188–204.e22.
+https://doi.org/10.1016/j.cell.2019.11.036
+
+37. Brown CE et al. Regression of Glioblastoma after Chimeric Antigen Receptor T-Cell Therapy. New England Journal of Medicine. 2016;375(26):2561–2569.
+https://doi.org/10.1056/NEJMoa1610497
+
+38. Choi BD et al. Intraventricular CARv3-TEAM-E T Cells in Recurrent Glioblastoma. New England Journal of Medicine. 2024;390(14):1290–1298.
+https://doi.org/10.1056/NEJMoa2314390
+
+39. Bagley SJ et al. Intrathecal bivalent CAR T cells targeting EGFR and IL13Rα2 in recurrent glioblastoma: phase 1 trial interim results. Nature Medicine. 2024;30:1320–1329.
+https://doi.org/10.1038/s41591-024-02893-z
+
+40. Monje M et al. Intravenous and intracranial GD2-CAR T cells for H3K27M+ diffuse midline gliomas. Nature. 2025;637:708–715.
+https://doi.org/10.1038/s41586-024-08171-9
+
+41. Cloughesy TF et al. Neoadjuvant anti-PD-1 immunotherapy promotes a survival benefit with intratumoral and systemic immune responses in recurrent glioblastoma. Nature Medicine. 2019;25:477–486.
+https://doi.org/10.1038/s41591-018-0337-7
+
+42. Mainprize T et al. Blood-Brain Barrier Opening in Primary Brain Tumors with Non-invasive MR-Guided Focused Ultrasound: A Clinical Safety and Feasibility Study. Scientific Reports. 2019;9:321.
+https://doi.org/10.1038/s41598-018-36340-0
+
+43. Sonabend AM et al. Repeated blood-brain barrier opening with an implantable ultrasound device for delivery of albumin-bound paclitaxel in patients with recurrent glioblastoma: a phase 1 trial. The Lancet Oncology. 2023;24(5):509–522.
+https://doi.org/10.1016/S1470-2045(23)00112-2
+
+44. Leuthardt EC et al. Hyperthermic Laser Ablation of Recurrent Glioblastoma Leads to Temporary Disruption of the Peritumoral Blood Brain Barrier. PLOS ONE. 2016;11(2):e0148613.
+https://doi.org/10.1371/journal.pone.0148613
+
+45. Yuan J et al. First-in-human prospective trial of sonobiopsy in high-grade glioma patients using neuronavigation-guided focused ultrasound. npj Precision Oncology. 2023;7:92.
+https://doi.org/10.1038/s41698-023-00448-y
+
+46. Baldock AL et al. Patient-Specific Metrics of Invasiveness Reveal Significant Prognostic Benefit of Resection in a Predictable Subset of Gliomas. PLOS ONE. 2014;9(10):e99057.
+https://doi.org/10.1371/journal.pone.0099057
+
+47. Akbari H et al. Imaging Surrogates of Infiltration Obtained Via Multiparametric Imaging Pattern Analysis Predict Subsequent Location of Recurrence of Glioblastoma. Neurosurgery. 2016;78(4):572–580.
+https://doi.org/10.1227/NEU.0000000000001202
+
+48. Hernandez-Boussard T et al. Digital twins for predictive oncology will be a paradigm shift for precision cancer care. Nature Medicine. 2021;27:2065–2066.
+https://doi.org/10.1038/s41591-021-01558-5
+
+49. Pati S et al. Federated learning enables big data for rare cancer boundary detection. Nature Communications. 2022;13:7346.
+https://doi.org/10.1038/s41467-022-33407-5
+
+50. CarThera (sponsor) Sonocloud-9 in Association With Carboplatin Versus Standard-of-Care Chemotherapies (CCNU or TMZ) in Recurrent GBM (SONOBIRD). ClinicalTrials.gov. NCT05902169.
+https://clinicaltrials.gov/study/NCT05902169
+
+Artwork sources
+Salvador Dalí, Study for Metamorphosis of Narcissus, c. 1937.
+https://www.salvador-dali.org/en/heritageobject/7340-a159/
+Salvador Dalí, Metamorphosis of Narcissus, 1937. Tate, London.
+https://catalogues.salvador-dali.org/catalogues/en/heritageobject/1198-965c/
+Painting reproduction: https://www.wikiart.org/en/salvador-dali/the-metamorphosis-of-narcissus
